@@ -14,14 +14,19 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+##Working with the project
+This project has been created to demonstrate an Anguar Crud Service which works on the Http request. 
+I have used a Fake json server for this.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+to open the above project.
+download the zip file
+extract it then open command promt, get into your current working drectory.
+run "npm install"
+once installed successfully->open anothe command promt window and write "json-server --watch db.json"
+this will give you a link open that link then open productList.
 
-## Running end-to-end tests
+till then your ng serve command would have completed execution and would give a localhost link. open that.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+That's it you are good to go.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Thank me later.
